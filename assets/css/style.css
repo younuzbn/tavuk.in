@@ -1998,7 +1998,7 @@ textarea.input-field {
   .navbar-list { all: unset; }
 
   .navbar,
-  .navbar.active { margin-inline: auto 20px; }
+  .navbar.active { margin-inline-start: auto; margin-inline-end: 20px; }
 
   .navbar-list {
     display: flex;
@@ -2122,7 +2122,7 @@ textarea.input-field {
    * HEADER
    */
 
-  .navbar { margin-inline: auto; }
+  .navbar { margin-inline-start: auto; }
 
 
 
